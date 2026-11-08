@@ -1,0 +1,35 @@
+{
+    "name": "S.A.N.T.O.",
+    "short_name": "SANTO",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#090E17",
+    "theme_color": "#090E17",
+    "description": "S.A.N.T.O. — private, local-first AI assistant and autonomous Android agent.",
+    "orientation": "any",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
